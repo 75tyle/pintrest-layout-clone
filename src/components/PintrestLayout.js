@@ -8,7 +8,7 @@ function PintrestLayout(){
             padding: 0,
             width: '80vw',
 
-            backgroundColor: 'black',
+            backgroundColor: 'white',
             position: 'absolute',
             left: '50%',
             transform: 'translateX(-50%)',

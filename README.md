@@ -1,7 +1,3 @@
-# Live-Link
-
-https://75tyle.github.io/75tyle.pintrest-layout-clone.io/
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
